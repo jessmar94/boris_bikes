@@ -17,4 +17,6 @@ I will be able to answer yes to the following questions:
 - I have collected feedback from my peers about how I am as a pair partner that shows I am improving
 
 ## Pairing
-On the first day of the challenge, I paired with Alec Walker.
+On the first day of the challenge, I paired with Alec Walker. We got through steps 1 - 9.
+The following day I paired with Sid Mason-Malik and we worked through steps 10 - 12.
+On Thursday, I paired with Roberta Mangiapane and we got through steps 13 - 16. 
