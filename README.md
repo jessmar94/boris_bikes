@@ -18,17 +18,13 @@ I will be able to answer yes to the following questions:
 - I can diagram and explain my TDD process to my peers and/or a coach
 - I have collected feedback from my peers about how I am as a pair partner that shows I am improving
 
-> 17.09.19 - Pairing feedback from Alec Walker:
-You had good communication throughout the session. We could have taken a more structured approach to pairing.
+> 17.09.19 - Pairing feedback from Alec Walker: You had good communication throughout the session. We could have taken a more structured approach to pairing.
 
-> 18.09.19 - Pairing feedback from Sid Maison-Malik  
-You stuck to the TDD process well but we could both have been stricter with making sure only one navigator/driver at a time, making sure we swap regardless if we've made progress on problem. I found you easy going to work with and you always ensured we were going back to write the correct most basic test before trying to code the solution.
+> 18.09.19 - Pairing feedback from Sid Maison-Malik: You stuck to the TDD process well but we could both have been stricter with making sure only one navigator/driver at a time, making sure we swap regardless if we've made progress on problem. I found you easy going to work with and you always ensured we were going back to write the correct most basic test before trying to code the solution.
 
-> 19.09.19 - Pairing feedback from Roberta Mangiapane
-You were patient and collaborative. You explained to me clearly and kindly the things I couldn't understand or remember. You carried out the concepts you already know with confidence and you were proactive, in searching sources for new concepts. I didn't feel rushed and I was comfortable to ask you for help, suggestions or explanation. Next time, try to be more patient with yourself. 
+> 19.09.19 - Pairing feedback from Roberta Mangiapane: You were patient and collaborative. You explained to me clearly and kindly the things I couldn't understand or remember. You carried out the concepts you already know with confidence and you were proactive, in searching sources for new concepts. I didn't feel rushed and I was comfortable to ask you for help, suggestions or explanation. Next time, try to be more patient with yourself. 
 
-> 20.09.19 - Pairing feedback from Vijay Kurian
-You had good communication and were willing to adopt an approach different than your first instinct. You could have perhaps slowed down a bit in terms of jumping straight to rspec before the feature test. However, your approach to Feature testing improved as we progressed through the session.
+> 20.09.19 - Pairing feedback from Vijay Kurian: You had good communication and were willing to adopt an approach different than your first instinct. You could have perhaps slowed down a bit in terms of jumping straight to rspec before the feature test. However, your approach to Feature testing improved as we progressed through the session.
 
 ## Project Status 
 - On Day 1 of the challenge, I paired with Alec Walker and we completed steps 1-9 on [my repo](https://github.com/jessmar94/boris_bikes).
